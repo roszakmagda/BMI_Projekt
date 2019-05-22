@@ -1,0 +1,18 @@
+﻿nazwa	  	data								    wynik	
+magda1          niedziela, 19 maja 2019                                            15,2
+dawid1          poniedziałek, 20 maja 2019                                         54,67
+slawb1          poniedziałek, 20 maja 2019                                         31,25
+slawb1          poniedziałek, 20 maja 2019                                          28,8
+magda1          poniedziałek, 20 maja 2019                                         25,66
+slawb1          poniedziałek, 20 maja 2019                                          7,64
+slawb1          poniedziałek, 20 maja 2019                                            40
+slawb1          poniedziałek, 20 maja 2019                                         27,78
+slawb1          poniedziałek, 20 maja 2019                                         27,78
+slawb1          poniedziałek, 20 maja 2019                                         27,78
+slawb1          poniedziałek, 20 maja 2019                                         22,22
+slawb1          poniedziałek, 20 maja 2019                                         22,22
+slawb1          poniedziałek, 20 maja 2019                                         27,78
+slawb1          poniedziałek, 20 maja 2019                                            10
+magda1                wtorek, 21 maja 2019                                        909,09
+dawid1                wtorek, 21 maja 2019                                         11,25
+magda1                 środa, 22 maja 2019                                         90,09
